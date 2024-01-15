@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Amir Abbas 👋
 
-I'm a passionate software developer with a focus on [Your Area of Expertise]. My goal is to [Your Career Objective or Mission].
+I'm a BS in Computer Science with a focus on .Net. My goal is to Python Developer.
 
 ## 🚀 Skills
 
-- **Languages:** [List of Programming Languages]
-- **Technologies:** [List of Technologies, Frameworks, Tools]
-- **Databases:** [List of Databases]
+- **Languages:** C, C++, Python, C#, SQL
+- **Technologies:** .Net, PYQt5
+- **Databases:** MySql, MS Server
 
 ## 💼 Experience
 
-### [Current Job Title] at [Current Company]
+### St[Current Job Title] at [Current Company]
 - [Brief Description of Your Responsibilities and Achievements]
 
 ### [Previous Job Title] at [Previous Company]
