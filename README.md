@@ -8,13 +8,12 @@ I'm a BS in Computer Science student at NUST, currently in my 3rd year. My goal 
 - **Technologies:** .Net, Web Development, PYQt5
 - **Databases:** MySQL, SQL Server
 
-## 💼 Experience
-
-### [Current Job Title] at [Current Company]
-- [Brief Description of Your Responsibilities and Achievements]
-
-### [Previous Job Title] at [Previous Company]
-- [Brief Description of Your Responsibilities and Achievements]
+### Intern at Prob N Tech, Faisalabad, Pakistan
+- Worked for 4 months as an intern, primarily focusing on Python for web development and automation tasks.
+- Developed and maintained Python scripts for automating repetitive tasks, improving efficiency in data processing and analysis.
+- Assisted in the development of web applications using Python frameworks such as Django or Flask.
+- Collaborated with the team to troubleshoot and debug code, gaining hands-on experience in problem-solving and software development practices.
+- Contributed to the team's projects by providing creative ideas, learning new technologies, and adapting to new challenges.
 
 ## 🌱 Projects
 
