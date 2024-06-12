@@ -1,6 +1,6 @@
 # Hi there, I'm Amir Abbas 👋
 
-I'm a BS in Computer Science student at NUST, currently in my 3rd year. My goal is to become a Python Developer.
+I'm a BS in Computer Science student at [UAD(THE UNIVERSITY OF AGRICULTURE, D.I.KHAN)](https://www.uad.edu.pk/), currently in my 3rd year. My goal is to become a Python Developer.
 
 ## 🚀 Skills
 
