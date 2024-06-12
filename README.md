@@ -47,9 +47,9 @@ I'm a BS in Computer Science student at [UAD(THE UNIVERSITY OF AGRICULTURE, D.I.
 
 ## 🌐 Connect with Me
 
-![LinkedIn](https://www.linkedin.com/in/muhammad-amir-abbas)
-![X](https://twitter.com/@amirabb58167108/)
-![Portfolio](https://amirabbas101.github.io/Amir-Abbas-Portfolio))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-amir-abbas)
+[![X](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/@amirabb58167108/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://amirabbas101.github.io/Amir-Abbas-Portfolio)
 
 ## 🤝 Let's Collaborate
 
