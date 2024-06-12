@@ -43,7 +43,7 @@ I'm a BS in Computer Science student at [UAD(THE UNIVERSITY OF AGRICULTURE, D.I.
 
 ## 📚 Education
 
-- **BS in Computer Science** from NUST, Expected Graduation: 2025
+- **BS in Computer Science** from [UAD (THE UNIVERSITY OF AGRICULTURE, D.I.KHAN)](https://www.uad.edu.pk/), Expected Graduation: 2025
 
 ## 🌐 Connect with Me
 
