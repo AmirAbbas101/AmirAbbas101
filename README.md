@@ -8,7 +8,7 @@ I'm a BS in Computer Science student at [UAD(THE UNIVERSITY OF AGRICULTURE, D.I.
 - **Technologies:** .Net, Web Development, PYQt5
 - **Databases:** MySQL, SQL Server
 
-### Intern at Prob N Tech, Faisalabad, Pakistan
+### Intern at [Prob N Tech](https://probntech.ltd/), Faisalabad, Pakistan
 - Worked for 4 months as an intern, primarily focusing on Python for web development and automation tasks.
 - Developed and maintained Python scripts for automating repetitive tasks, improving efficiency in data processing and analysis.
 - Assisted in the development of web applications using Python frameworks such as Django or Flask.
