@@ -1,6 +1,6 @@
 # Hi there, I'm Amir Abbas 👋
 
-I'm a BS in Computer Science student at [UAD(THE UNIVERSITY OF AGRICULTURE, D.I.KHAN)](https://www.uad.edu.pk/), currently in my 3rd year. My goal is to become a Python Developer.
+I'm a recent graduate with a Bachelor’s degree in Computer Science. My coursework focused on software development, and they are proficient in Python, C++, and web development. They completed a web application project during their studies that streamlined data processing, reducing errors by 20%. I have also taken courses in AI, Machine Learning, ANN, Programming for AI, Web Engineering, and Mobile Development. I'm excited to apply my skills in a dynamic software development role and contribute to innovative projects.
 
 ## 🚀 Skills
 
@@ -8,7 +8,7 @@ I'm a BS in Computer Science student at [UAD(THE UNIVERSITY OF AGRICULTURE, D.I.
 - **Technologies:** .Net, Web Development, PYQt5
 - **Databases:** MySQL, SQL Server
 
-### Intern at [Prob N Tech](https://probntech.ltd/), Faisalabad, Pakistan
+### Intern at [Prob N Tech](https://probntech.ltd/), Faisalabad, Pakistan (4 Months)
 - Worked for 4 months as an intern, primarily focusing on Python for web development and automation tasks.
 - Developed and maintained Python scripts for automating repetitive tasks, improving efficiency in data processing and analysis.
 - Assisted in the development of web applications using Python frameworks such as Django or Flask.
