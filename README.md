@@ -9,7 +9,7 @@ contribute to dynamic teams and impactful projects.
 ## 🚀 Skills
 
 - **Languages:** C, C++, Python, C#, SQL
-- **Technologies:** .Net, Web Development, PYQt5
+- **Technologies:** .Net, Web Development, PYQt5, Flask, Django
 - **Databases:** MySQL, SQL Server
 
 ### Intern at [Prob N Tech](https://probntech.ltd/), Faisalabad, Pakistan (4 Months)
