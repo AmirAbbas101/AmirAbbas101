@@ -1,6 +1,10 @@
 # Hi there, I'm Amir Abbas 👋
 
-I'm a recent graduate with a Bachelor’s degree in Computer Science. My coursework focused on software development, and they are proficient in Python, C++, and web development. They completed a web application project during their studies that streamlined data processing, reducing errors by 20%. I have also taken courses in AI, Machine Learning, ANN, Programming for AI, Web Engineering, and Mobile Development. I'm excited to apply my skills in a dynamic software development role and contribute to innovative projects.
+Recent Computer Science graduate with experience in software
+development, web engineering, and AI. Skilled in developing web
+applications, and integrating machine learning models. Proficient
+in Python, C++, Flask, TensorFlow and scikit-learn. Ready to
+contribute to dynamic teams and impactful projects.
 
 ## 🚀 Skills
 
