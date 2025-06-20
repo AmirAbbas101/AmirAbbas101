@@ -1,82 +1,78 @@
-<h1 align="center">Hey there, I'm Amir Abbas 👨‍💻</h1>
-<h3 align="center">Full-Stack Developer | Python 🐍 | Django Wizard 🧙 | Problem Solver by Passion 🔧</h3>
+<h1 align="center">👋 Hi, I'm Amir Abbas</h1>
+<h3 align="center">Full-Stack Developer | Python & Django Enthusiast | Clean Code Advocate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Clean+Code+Craftsman;Full-Stack+Engineer+%7C+Django+%7C+Tailwind;Let's+build+something+legendary+..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=550&lines=Engineer+by+mind%2C+developer+by+heart.;Clean.+Practical.+Production-ready+code.;Let's+build+impactful+software+together." />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍🎓 About Me
 
-I don’t just write code – I architect solutions.  
-I'm a final-year CS student from Pakistan, turning real-world problems into clean, scalable, and maintainable software.
+I'm Amir Abbas, a **fresh Computer Science graduate** from Pakistan 🇵🇰 with a strong passion for solving real-world problems through code.
 
-Whether it’s building a powerful job portal from scratch, automating workflows, or diving into deep backend logic – I love challenges that push me beyond tutorials and templates.
+I specialize in **backend development using Python and Django**, and I love building web applications that are not only functional, but also clean, scalable, and easy to maintain.
 
-> 🧠 I believe in writing code that future-me (and others) can read without crying.
+I believe that software should serve a purpose, and every line of code should have meaning. Over the last year, I’ve worked on practical, real-world projects that simulate real business needs from building a job portal to deploying full-stack apps.
 
----
+Now that I’ve graduated, I’m fully focused on **growing as a professional developer**, learning continuously, and contributing to teams that value quality, clarity, and collaboration.
 
-## 💼 What I Bring to the Table
-
-- 🧩 Full-Stack Experience: Django, PostgreSQL, Tailwind CSS, JavaScript
-- 🛠️ REST APIs with Python `requests`, DRF, and clean architecture
-- 🌐 Deployment: Ubuntu, Railway.app, PythonAnywhere, GitHub Actions
-- 💾 DBs: MySQL, PostgreSQL, SQLite (optimized queries, migrations like a pro)
-- 🐧 Linux: Bash scripting, CLI warrior, Git master
-- 🧠 Soft Skills: Problem solving, communication, learning fast, working smarter
+> I don’t just build features. I build systems that last.
 
 ---
 
-## 🧰 Tech Toolbox
+## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks:** Django, Django REST Framework, Tailwind CSS  
+- **Databases:** PostgreSQL, MySQL, SQLite  
+- **Tools & Platforms:** Git, GitHub, Ubuntu, Railway, PythonAnywhere  
+- **Extras:** REST APIs, Linux CLI, VS Code, problem solving
 
 ---
 
-## 🔥 Featured Projects
+## 🔍 Featured Project: [JobLens – Smart Job Portal](https://github.com/AmirAbbas101/job-portal-joblens-)
 
-### 🌐 [JobLens - Full-Stack Job Portal](https://github.com/AmirAbbas101/job-portal-joblens-)
-> Django + PostgreSQL + Tailwind CSS  
-✅ Resume uploads, job filters, user roles, and real-world deployment  
-✅ A clean and powerful UI/UX designed for real hiring scenarios
+A fully-functional job portal that mimics real-world hiring platforms.
+
+🔧 **Tech Stack:** Django, PostgreSQL, Tailwind CSS  
+🔐 Role-based Auth (Recruiter / Job Seeker)  
+📄 Resume upload & dynamic job filters  
+🌐 Responsive frontend, real-world deployment  
+🚀 Built with performance and simplicity in mind
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced API development with Django REST Framework  
+- Frontend integration with React.js  
+- System design for scalable backend architectures  
+- Clean architecture and modular coding practices  
 
 ---
 
-## 📫 Let's Talk
+## 🤝 Let's Connect
 
-I’m actively seeking full-time roles and exciting freelance opportunities. If you’re looking for someone who…
+If you’re building something meaningful — I’d love to be a part of it.
 
-✔️ Delivers on time  
-✔️ Writes clean, maintainable code  
-✔️ Understands business needs  
-✔️ Cares about the user experience  
-
-**Then let’s make things happen.**
-
-📩 Email: [amirabbasdev@gmail.com](mailto:aamirabbas.dev@gmail.com)  
-🌐 Portfolio: *(coming soon)*  
-💼 LinkedIn: [linkedin.com/in/amirabbas101](https://linkedin.com/in/amir-abbas-dev)  
+- 📧 **Email:** [aamirabbas.dev@gmail.com](mailto:aamirabbas.dev@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/amir-abbas-dev/](https://linkedin.com/in/amir-abbas-dev/)
 
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <i>"I don’t wait for opportunities — I build them, one line of code at a time."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirAbbas101&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAbbas101&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
-<!-- Optional: GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirAbbas101&show_icons=true&theme=radical" alt="Amir's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAbbas101&layout=compact&theme=radical" alt="Top Languages" />
+  <em>"Every great developer was once a beginner who refused to give up."</em>  
+</p>
+<p align="center">
+  🚀 Thanks for visiting, let’s build something impactful together.
 </p>
